@@ -1,6 +1,7 @@
 import './App.css';
 import {
   BrowserRouter,
+  HashRouter,
   Routes,
   Route,
 } from "react-router-dom";
@@ -13,7 +14,7 @@ import ContactUs from './components/ContactUs';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route path="/" element={<Home />} />
@@ -23,7 +24,7 @@ function App() {
           <Route path="contactus" element={<ContactUs/>} />
         </Route>
       </Routes>
-  </BrowserRouter>
+  </HashRouter>
   );
 }
 
