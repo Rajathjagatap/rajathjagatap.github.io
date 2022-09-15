@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/rajathjagatap.github.io/static/css/main.15863324.css",
-    "main.js": "/rajathjagatap.github.io/static/js/main.95b54e01.js",
-    "static/js/787.f24c9cda.chunk.js": "/rajathjagatap.github.io/static/js/787.f24c9cda.chunk.js",
-    "static/media/cover-pic.png": "/rajathjagatap.github.io/static/media/cover-pic.3aa17f683ac5bd6954bf.png",
-    "static/media/cover-pic2.png": "/rajathjagatap.github.io/static/media/cover-pic2.728e7477fac2ebe99104.png",
-    "static/media/cover-pic4.jpeg": "/rajathjagatap.github.io/static/media/cover-pic4.15cfea9cf3f1267b2058.jpeg",
-    "static/media/cover-pic5.jpeg": "/rajathjagatap.github.io/static/media/cover-pic5.81fdbaf549a6a9e759f3.jpeg",
-    "static/media/cover-pic6.jpeg": "/rajathjagatap.github.io/static/media/cover-pic6.4a996651143f1a3f9e30.jpeg",
-    "static/media/cover-pic3.jpeg": "/rajathjagatap.github.io/static/media/cover-pic3.1310207e494cae87e8a8.jpeg",
-    "static/media/logo.png": "/rajathjagatap.github.io/static/media/logo.08add9035a41f8832e67.png",
-    "index.html": "/rajathjagatap.github.io/index.html",
-    "main.15863324.css.map": "/rajathjagatap.github.io/static/css/main.15863324.css.map",
-    "main.95b54e01.js.map": "/rajathjagatap.github.io/static/js/main.95b54e01.js.map",
-    "787.f24c9cda.chunk.js.map": "/rajathjagatap.github.io/static/js/787.f24c9cda.chunk.js.map"
+    "main.css": "/static/css/main.15863324.css",
+    "main.js": "/static/js/main.278ef284.js",
+    "static/js/787.f24c9cda.chunk.js": "/static/js/787.f24c9cda.chunk.js",
+    "static/media/cover-pic.png": "/static/media/cover-pic.3aa17f683ac5bd6954bf.png",
+    "static/media/cover-pic2.png": "/static/media/cover-pic2.728e7477fac2ebe99104.png",
+    "static/media/cover-pic4.jpeg": "/static/media/cover-pic4.15cfea9cf3f1267b2058.jpeg",
+    "static/media/cover-pic5.jpeg": "/static/media/cover-pic5.81fdbaf549a6a9e759f3.jpeg",
+    "static/media/cover-pic6.jpeg": "/static/media/cover-pic6.4a996651143f1a3f9e30.jpeg",
+    "static/media/cover-pic3.jpeg": "/static/media/cover-pic3.1310207e494cae87e8a8.jpeg",
+    "static/media/logo.png": "/static/media/logo.08add9035a41f8832e67.png",
+    "index.html": "/index.html",
+    "main.15863324.css.map": "/static/css/main.15863324.css.map",
+    "main.278ef284.js.map": "/static/js/main.278ef284.js.map",
+    "787.f24c9cda.chunk.js.map": "/static/js/787.f24c9cda.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15863324.css",
-    "static/js/main.95b54e01.js"
+    "static/js/main.278ef284.js"
   ]
 }
